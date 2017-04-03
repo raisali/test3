@@ -10,8 +10,7 @@
                 <f:facet name="header">                                       
                 </f:facet>
                 <f:facet name="end"/>
-                <f:facet name="start">
-                
+                <f:facet name="start">                
                 </f:facet>
                 <f:facet name="branding"/>
                 <f:facet name="copyright"/>
